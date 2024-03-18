@@ -1,0 +1,10 @@
+body{
+  padding: 0;
+  margin:0;
+}
+
+
+div.main{
+  background :url("bg.png");
+  background-size: cover;
+}
